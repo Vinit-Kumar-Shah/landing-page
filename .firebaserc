@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "indianpool-lp"
+    "default": "indianpool-lp",
+    "staging": "indianpool-lp-staging"
   }
 }
